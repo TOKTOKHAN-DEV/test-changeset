@@ -1,5 +1,0 @@
----
-"test-changeset": minor
----
-
-gogogogogo
